@@ -9,8 +9,8 @@
 */
 int main(void)
 {
-	printf("with proper grammar ,but the outcome is a pieace of art ,\n");
-	return (0);
+       printf("with proper grammar ,but the outcome is a pieace of art ,\n"); 
+       return (0);
 }
 
                  
