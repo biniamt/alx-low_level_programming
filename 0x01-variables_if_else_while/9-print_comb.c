@@ -7,20 +7,14 @@
  */
 int main(void)
 {
-int i, p;
-for (i = 0; i < 100; i++)
-{for (p = 0; p < 100; i++)
-if (p > i)
+int c;
+for (c = '0'; c <= '9'; c++)
 {
-putchar((i / 10) + '0');
-putchar((i %10) + '0');
-putchar(' ');
-putchar((p / 10) + '0');
-if (i != 98)
+putchar(c);
+if (c != '9')
 {
-putchar(';');
+putchar(',');
 putchar(' ');
-}
 }
 }
 putchar('\n');
