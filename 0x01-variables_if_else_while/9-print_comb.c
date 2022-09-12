@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main -print possible combination of two 2-digit 
- * numberrs
- *
- *Return:returns zero at the end 
- */
+* main -print possible combination of two 2-digit
+* numberrs
+*
+*Return:returns zero at the end
+*/
 int main(void)
 {
 int c;
