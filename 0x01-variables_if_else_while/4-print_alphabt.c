@@ -1,9 +1,9 @@
-include <stdio.h>
+#include <stdio.h>
 /**
-  * main - Ommit some alphabet
-  *
-  * Return: Always (Success)
-  */
+* main - Ommit some alphabet
+*
+* Return: Always (Success)
+*/
 int main(void)
 {
 char c;
